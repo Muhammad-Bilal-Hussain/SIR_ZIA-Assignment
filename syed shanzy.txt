@@ -1,0 +1,21 @@
+list, tuple, set, dic, frozen set, 
+join ka method list pe kam krta hai
+type of module: 3 types
+
+1st module)build in modules: (wo module jo python ke phele se banaye hoye modules 
+hoty hen. jab humko inhy use krne hoty hen to inko import krwa ke use kr lety hen intall
+krne ki need nahi, e.g = math, random, os,'sys=(manually interning)'
+)
+
+2nd module) user define modules - custom module(ye ap khud se banaty ho or unko ap 
+apni kisi or file me use krty ho)
+
+
+3rd module) external modules - third party library (jo bhar se install karty hen. inko 
+install krne k lie 'pip install `module name`'
+)
+
+
+==========pas by value and pas by reference================
+1)pass by value: 'imutable'wo jo change nahi ho sakti like int, string
+2)pas by ref:'mutable' wo jo change ho skati hai like list etc..
